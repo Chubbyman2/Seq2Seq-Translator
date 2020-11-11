@@ -6,3 +6,5 @@ http://www.manythings.org/anki/
 
 GloVe word embeddings:
 https://nlp.stanford.edu/projects/glove/
+
+For future improvements, a larger dataset would allow for custom phrases to be translated, but would also require more RAM than is available in Colaboratory. An attention layer could also be implemented to improve the accuracy of translations.
